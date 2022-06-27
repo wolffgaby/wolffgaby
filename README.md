@@ -1,7 +1,9 @@
-### Hi there 👋
-
-<!--
-**wolffgaby/wolffgaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# sobre mim
+-ola;eu sou a gabrielly wolff;
+estou interessado em cursos;
+atualmente estou aprendendo SCRATCH e JAVASCRIPT;
+estou disponivel para colaborar e ajudar meu colegas;
+instagram:@gaabs.wolff
 
 Here are some ideas to get you started:
 
